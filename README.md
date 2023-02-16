@@ -1,2 +1,9 @@
 # Bayesian-Geo-Spatial-modelling
 Bayesian Geo-Spatial modelling of vaccine coverage
+
+
+
+Background: Global Vaccine Action Plan (GVAP) targets 90% national and 80% sub-national DTP3 vaccine coverage by 2020. This opportunity led to a call for a Decade of vaccine (2011-2020) globally by health communities, aiming towards all individuals living free from vaccine-preventable disease. Low and middle income countries (LMICs) are far away from the target; some sub-national areas falling below 50% coverage. This low coverage in LMICs requires deeper understanding of immunization data sources and programs, to find plausible vaccine preventable disease (VPD) prone areas.
+Methods and results: In this thesis we estimate vaccine uptake for various routine immunizations across India to perform geospatial modelling, for children below 5 years of age. We also estimate vaccine coverage coming from mother’s recall power to decide child’s immunization status, which might be unreliable. We perform spatial modelling in India and Nigeria, using Bayesian geostatistical techniques implemented via Markov Chain Monte Carlo (MCMC) methods.
+We predict BCG, measles, DTP1 and DTP3 vaccine coverage on a 10km spatial resolution across India. The output maps reveals large heterogeneity in northern and eastern states. We also did a similar exercise on 5km spatial resolution maps of Nigeria. We analyse the socio-economic and demographic factors owing to the regional divide found in Nigeria, and suspect the maternal recall aspect.
+Conclusion: Immunization programs should address the issues concerning low cov- erage of all routine immunizations in India. Special attention and priority should be given at sub-national level (states of India), primarily the districts lagging far behind the median coverage of that state. The approaches outlined in this thesis, form a baseline to a better understanding of immunization interventions in India.
